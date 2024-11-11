@@ -1,0 +1,9 @@
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 01.namd.tcl > log_01.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 02.namd.tcl > log_02.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 03.namd.tcl > log_03.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 04.namd.tcl > log_04.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 05.namd.tcl > log_05.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 06.namd.tcl > log_06.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 07.namd.tcl > log_07.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 08.namd.tcl > log_08.txt
+../../NAMD_3.0.1_Linux-x86_64-multicore-CUDA/namd3 +p16 09.namd.tcl > log_09.txt
